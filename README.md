@@ -1,1 +1,9 @@
-- https://qiita.com/walk8243/items/0b43e4909e5285c3eec6
+# Developer
+
+## Granbard
+
+I am a member of Granbard project.
+Granbard is Minecraft Bedrock RPG server.
+Granbard is developing now, alpha test date is undecided.
+check website ->
+join discord ->
